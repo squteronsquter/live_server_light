@@ -1,1 +1,3 @@
-# live_server_light
+# Live Server Light
+
+Quick local server for some small html projects.
